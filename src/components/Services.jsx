@@ -1,4 +1,4 @@
-import { Heart, Home, Briefcase, Star, Users, Shield } from 'lucide-react';
+import { Heart, Hop as Home, Briefcase, Star, Users, Shield } from 'lucide-react';
 
 const Services = () => {
   const services = [
